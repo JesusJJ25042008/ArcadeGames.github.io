@@ -1,0 +1,17 @@
+.Titulo{
+    background-color: #F3811D;
+
+}
+
+.flexbox{
+    text-align: right;
+}
+
+.Page-Contain{
+    display: flex;
+    justify-content: space-between;
+}
+
+.BotonesdeCompra{
+    background-color: #4cf309;
+}
